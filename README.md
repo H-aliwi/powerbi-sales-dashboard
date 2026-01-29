@@ -4,6 +4,14 @@
 This project presents an interactive Power BI dashboard designed to analyze and visualize sales performance across multiple business dimensions. The dashboard provides insights into sales channels, customer behavior, geographic distribution, product performance, and customer satisfaction.
 
 ---
+## 📊 Dashboard Preview
+
+The image below shows the main Power BI sales dashboard, highlighting key insights
+such as sales trends, customer segmentation, top products, and geographic distribution.
+
+![Power BI Sales Dashboard](image/power_Bi_sales_image.png)
+
+---
 
 ## 🎯 Objectives
 - Analyze overall sales performance
